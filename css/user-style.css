@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#iwbl {
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#iwbl {
+    background-repeat: repeat;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    background-attachment: scroll;
+    background-size: cover;
+    background-image: url("../blibli655658a276f66.jpg");
+}
+
+#ir0v {
+    height: 102.333px;
+}
+
+.htmlpage-row {
+    display: table;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.htmlpage-cell {
+    width: 8%;
+    display: table-cell;
+    height: 75px;
+}
+
+.c5360 {
+    color: rgb(255, 255, 255);
+    font-size: 33px;
+}
+
+.c5466 {
+    color: rgb(255, 255, 255);
+    position: static;
+    font-family: "PingFang SC", sans-serif;
+    font-size: 31px;
+}
+
+.c6098 {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: rgb(255, 0, 0);
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.c6570 {
+    width: 13.95%;
+}
+
+.c6579 {
+    width: 48.11%;
+}
+
+.c7274 {
+    color: rgb(12, 0, 255);
+    font-size: 26px;
+}
+
+.c23683 {
+    color: rgb(255, 255, 255);
+    font-size: 33px;
+}
+
+@media (max-width: 768px) {
+    .htmlpage-cell {
+        width: 100%;
+        display: block;
+    }
+}
